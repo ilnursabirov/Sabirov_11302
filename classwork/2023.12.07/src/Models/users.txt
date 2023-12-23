@@ -1,0 +1,6 @@
+5
+1;Arsen;Moskva
+2;Nekit;Kazan
+3;Ruslan;Ufa
+4;Denis;Moskva
+5;Kristi;Dubai
