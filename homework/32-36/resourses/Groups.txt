@@ -1,0 +1,6 @@
+5
+1 KPFU Kazan 5
+2 Football Tetysh 4
+3 Cats Kazan 1
+4 Tatarstan Kazan 1
+5 ITIS Kazan 6
